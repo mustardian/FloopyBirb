@@ -151,7 +151,7 @@ diff_speed = 1  # enemy speed
 def_speedfall = 3  # speed fall
 player_rotation = 0  # rotation please work
 DeltaDistMario = 500  # Distance between pipes
-a = 300  # idk what this is please don't change it future me also paneer
+a = 300  # i forgot what this does
 points_to_be_earned = 0
 lastpipecoords = -260
 time_before = 0
@@ -520,4 +520,4 @@ while restart:
         play_again = True
     else:
         play_again = False
-print("Thank you for playing Floopy Birb by Aryan Mishra XII C")
+print("Thank you for playing Floopy Birb by Aryan Mishra")
